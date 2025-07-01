@@ -1,0 +1,5 @@
+see for security groups
+teraform init
+vaidate plan apply destroy metadata
+
+include security groun in terraform
